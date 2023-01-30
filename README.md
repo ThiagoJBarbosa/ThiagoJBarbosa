@@ -1,8 +1,8 @@
 ### Prazer! Eu sou o Thiago Barbosa 🤝🏼
 
 
-- 🎓 Ensino médio integrado com técnico em informática
-- 📚 Estudando Python
+- 🎓 Ensino médio integrado com técnico em informática.
+- 📚 Estudando Java.
 
 <div align="center">
   <a href="https://github.com/ThiagoJBarbosa">
