@@ -1,6 +1,6 @@
 ### Prazer! Eu sou o Thiago Barbosa 🤝🏼
 
-
+- 🎓 Cursando análise e desenvolvimento de sistemas na FIAP- Faculdade de Informática e Administração Paulista.
 - 🎓 Ensino médio integrado com técnico em informática.
 - 📚 Estudando Java.
 
